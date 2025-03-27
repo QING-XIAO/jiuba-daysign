@@ -9,7 +9,8 @@
 3. Add `ql repo https://github.com/QING-XIAO/98tang-daysign` as scheduled task and run it manually
 4. The daysign task would be added automatically
 
-~~## How to use in Actions~~
+## How to use in Actions
+
 ~~Notice: Actions is unable to sign 98tang since its IP was filtered by Cloudflare. Try to run locally.~~
 
 ~~1. Export cookies from Browser~~
