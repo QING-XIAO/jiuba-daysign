@@ -13,9 +13,10 @@
 ## How to use in [Qinglong](https://github.com/whyour/qinglong) (Recommended)
 
 1. Export cookies from Browser (`Copy as Node.js fetch`)
-2. Add `FETCH_98TANG` env variable in Qinglong
+2. Add `FETCH_98TANG` `CURL_98TANG` env variable in Qinglong
 3. Add `ql repo https://github.com/QING-XIAO/98tang-daysign` as scheduled task and run it manually
 4. The daysign task would be added automatically
+5. Install requirements in Qinglong
 
 ## How to retrieve cURL/fetch command
 
