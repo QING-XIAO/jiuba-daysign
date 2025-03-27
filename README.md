@@ -6,10 +6,10 @@ Notice: Actions is unable to sign 98tang since its IP was filtered by Cloudflare
 
 1. Export cookies from Browser (`Copy as Node.js fetch`)
 2. Add `FETCH_98TANG` env variable in Qinglong
-3. Add `ql repo https://github.com/xjasonlyu/98tang_daysign` as scheduled task and run it manually
+3. Add `[ql repo https://github.com/QING-XIAO/98tang-daysign]` as scheduled task and run it manually
 4. The daysign task would be added automatically
 
-## How to use in Actions
+~~ ## How to use in Actions ~~
 
 1. Export cookies from Browser
 2. Clone this repository
