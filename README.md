@@ -14,7 +14,9 @@
 ~~Notice: Actions is unable to sign 98tang since its IP was filtered by Cloudflare. Try to run locally.~~
 
 ~~1. Export cookies from Browser~~
+
 ~~2. Clone this repository~~
+
 ~~3. Add secrets in repo settings~~
 
 ## How to retrieve cURL/fetch command
