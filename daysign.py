@@ -17,7 +17,7 @@ FID = 103  # 高清中文字幕
 # 每次运行脚本时的评论次数，可通过环境变量配置
 # 例如: REPLY_TIMES_98TANG=3 将对3个不同帖子进行评论
 # 默认值为1，设为0可以禁用评论功能
-REPLY_TIMES = os.getenv('REPLY_TIMES_98TANG', 2)
+REPLY_TIMES = os.getenv('REPLY_TIMES_98TANG', 1)
 
 AUTO_REPLIES = (
     # 原有内容保留
