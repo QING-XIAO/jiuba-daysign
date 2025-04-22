@@ -1,4 +1,4 @@
-# 98tang Daysign Script
+# jiuba Daysign Script
 
 ## How to use in Actions
 
@@ -14,7 +14,7 @@
 
 1. Export cookies from Browser (`Copy as Node.js fetch`)
 2. Add `FETCH_98TANG` `CURL_98TANG` env variable in Qinglong
-3. Add `ql repo https://github.com/QING-XIAO/98tang-daysign` as scheduled task and run it manually
+3. Add `ql repo https://github.com/QING-XIAO/jiuba-daysign` as scheduled task and run it manually
 4. The daysign task would be added automatically
 5. Install requirements in Qinglong
 
